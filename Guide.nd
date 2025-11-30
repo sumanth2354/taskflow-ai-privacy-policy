@@ -1,0 +1,35 @@
+1.Admin Guide
+Taskflow AI Admin Guide
+• The extension requires access to Zoho Cliq conversations to detect tasks.
+• No user data is stored externally.
+• Admin can enable/disable the extension for selected users or the whole organization.
+• Permissions can be assigned through Zoho Cliq admin panel.
+
+
+2. Admin Guide link
+Taskflow AI Admin Guide
+• The extension requires access to Zoho Cliq conversations to detect tasks.
+• No user data is stored externally.
+• Admin can enable/disable the extension for selected users or the whole organization.
+• Permissions can be assigned through Zoho Cliq admin panel.
+
+
+3.Help Document link
+Help Guide
+Troubleshooting:
+• AI is not detecting tasks → Ensure messages contain action terms like "send", "create", "update", etc.
+• Wrong user assignment → Users can manually edit the task assignment.
+• No reminders → Check notification permissions inside Cliq.
+
+FAQs:
+Q: Does Taskflow AI store personal data?
+A: No, all processing happens within Zoho Cliq.
+
+
+4.Case Studies link
+Case Study Examples
+Case 1: Internal team meetings
+Taskflow AI detected 17 tasks from weekly meetings and generated reminders automatically.
+
+Case 2: Sales team collaboration
+Follow-ups and client messages were converted into tasks, reducing missed actions by 60%.
