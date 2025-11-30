@@ -6,4 +6,4 @@ No chat messages or user information are stored on any external servers.
 No data is sold or shared with third parties.
 
 If you have questions about this policy, you can contact:
-taskflowai.support@gmail.com
+sumanthbanisetti2354@gmail.com
